@@ -1,0 +1,73 @@
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\source.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\seekpt.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\schedule.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\renbase.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\refclock.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\pullpin.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\pstream.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\perflog.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\outputq.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\mtype.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\dllsetup.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\dllentry.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\ddmm.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\ctlutil.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\cprop.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\combase.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\arithutil.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\amvideo.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\amfilter.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\amextra.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\wxutil.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\wxlist.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\wxdebug.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\winutil.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\winctrl.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\vtrans.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\videoctl.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\transip.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\transfrm.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\sysclock.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\strmctl.obj
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\vc100.pdb
+c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\x64\release\strmbase.lib
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\baseclasses.vcxprojresolveassemblyreference.cache
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\amextra.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\amfilter.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\amvideo.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\arithutil.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\combase.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\cprop.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\ctlutil.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\ddmm.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\dllentry.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\dllsetup.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\mtype.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\outputq.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\perflog.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\pstream.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\pullpin.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\refclock.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\renbase.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\schedule.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\seekpt.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\source.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\strmctl.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\sysclock.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\transfrm.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\transip.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\videoctl.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\vtrans.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\winctrl.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\winutil.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\wxdebug.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\wxlist.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\wxutil.obj
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\baseclasses.write.1.tlog
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\cl.command.1.tlog
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\cl.read.1.tlog
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\cl.write.1.tlog
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\lib-link.read.1.tlog
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\lib-link.write.1.tlog
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\lib.command.1.tlog
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\x64\release\vc100.pdb

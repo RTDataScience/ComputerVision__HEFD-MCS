@@ -14,7 +14,7 @@ Two key issues of flame detection are high accuracy and low false alarm rate, an
 ### Keywords: Shaky Video, Intelligence Video Surveillance, Mobile Camera, Flame Detection, Real-Time.
 
 ### YouTube
-https://youtu.be/NQhbIr1C5nI
+
 
 ### Keywords or Tags
 Computer Vision, Image Processing, Shaky Video, Static Video, Dynamic Video, Visual C++ 2017, DirectShow, 

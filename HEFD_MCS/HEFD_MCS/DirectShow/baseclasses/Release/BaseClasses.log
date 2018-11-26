@@ -1,0 +1,74 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\source.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\seekpt.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\schedule.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\renbase.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\refclock.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\pullpin.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\pstream.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\perflog.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\outputq.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\mtype.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\dllsetup.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\dllentry.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\ddmm.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\ctlutil.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\cprop.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\combase.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\arithutil.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\amvideo.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\amfilter.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\amextra.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\wxutil.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\wxlist.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\wxdebug.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\winutil.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\winctrl.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\vtrans.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\videoctl.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\transip.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\transfrm.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\sysclock.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\strmctl.obj' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\vc100.pdb' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\program files\microsoft sdks\windows\v7.1\samples\multimedia\directshow\baseclasses - vc2010\release\strmbase.lib' is denied.
+  amextra.cpp
+  amfilter.cpp
+  amvideo.cpp
+  arithutil.cpp
+  combase.cpp
+  cprop.cpp
+  ctlutil.cpp
+  ddmm.cpp
+  dllentry.cpp
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\dllentry.cpp(314): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\10.0.16299.91\include\10.0.17134.0\um\sysinfoapi.h(387): note: see declaration of 'GetVersionExW'
+  dllsetup.cpp
+  mtype.cpp
+  outputq.cpp
+  perflog.cpp
+  pstream.cpp
+  pullpin.cpp
+  refclock.cpp
+  renbase.cpp
+  schedule.cpp
+  seekpt.cpp
+  source.cpp
+  Generating Code...
+  Compiling...
+  strmctl.cpp
+  sysclock.cpp
+  transfrm.cpp
+  transip.cpp
+  videoctl.cpp
+  vtrans.cpp
+  winctrl.cpp
+  winutil.cpp
+  wxdebug.cpp
+  wxlist.cpp
+  wxutil.cpp
+v:\00__develop\_c1\hefd_mcs__vc2017__v1.0\hefd_mcs\hefd_mcs\directshow\baseclasses\wxutil.cpp(755): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\10.0.16299.91\include\10.0.17134.0\um\sysinfoapi.h(387): note: see declaration of 'GetVersionExW'
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(V:\00__Develop\_C1\HEFD_MCS__VC2017__v1.0\HEFD_MCS\HEFD_MCS\DirectShow\baseclasses\Release\BaseClasses.lib) does not match the Library's OutputFile property value (V:\00__Develop\_C1\HEFD_MCS__VC2017__v1.0\HEFD_MCS\HEFD_MCS\DirectShow\baseclasses\Release\strmbase.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(BaseClasses) does not match the Library's OutputFile property value (strmbase). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  BaseClasses.vcxproj -> V:\00__Develop\_C1\HEFD_MCS__VC2017__v1.0\HEFD_MCS\HEFD_MCS\DirectShow\baseclasses\Release\BaseClasses.lib
