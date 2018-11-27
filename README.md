@@ -22,7 +22,11 @@ Computer Vision, Image Processing, Shaky Video, Static Video, Dynamic Video, Vis
 ### GitHub
 https://github.com/laitaiyu/ComputerVision__HEFD-MCS
 
+
 ## Authors
-Blog
+Lai Lin-Wen（賴琳紋），British Computer Society（英國電腦學會）
+Lai Tai-Yu（賴岱佑），International Association of Computer Science and Information Technology（國際電腦科學與資訊科技協會）
+
+### Blog
 https://laitaiyu.blogspot.com/
 
