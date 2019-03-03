@@ -320,6 +320,8 @@ void CMainFrame::OnUpdateCheckProperties(CCmdUI *pCmdUI)
 
 void CMainFrame::OnButtonStart()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->DisableAllRadioButton();
+
     ((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->lFrameCount = 1;
     if (m_wndProperties.iComboBoxProperties == 0)
     {
@@ -521,7 +523,8 @@ void CMainFrame::OnButtonStart()
 
 void CMainFrame::OnButtonContinue()
 {
-    
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     if ( ( (CHEFD_MCSView*) GetActiveFrame()->GetActiveView() )->pHEFD_MCS == NULL ||
         ( (CHEFD_MCSView*) GetActiveFrame()->GetActiveView() )->pOtherAlgorithm0001 == NULL ||
         ( (CHEFD_MCSView*) GetActiveFrame()->GetActiveView() )->pOtherAlgorithm0002 == NULL ||
@@ -595,6 +598,8 @@ void CMainFrame::OnButtonContinue()
 
 void CMainFrame::OnButtonPause()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
     
     if ( m_wndProperties.iComboBoxProperties == 0 )
@@ -627,6 +632,8 @@ void CMainFrame::OnButtonPause()
 
 void CMainFrame::OnButtonStop()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
     
     if ( m_wndProperties.iComboBoxProperties == 0 )
@@ -677,6 +684,8 @@ void CMainFrame::OnButtonStop()
 
 void CMainFrame::OnButtonStep()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
     
     if ( m_wndProperties.iComboBoxProperties == 0 )
@@ -715,6 +724,8 @@ void CMainFrame::OnUpdateCheckRepeat(CCmdUI *pCmdUI)
 
 void CMainFrame::OnCheckRepeat()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
 
     if ( m_bVideoDisplayRepeat == TRUE )
@@ -771,6 +782,8 @@ void CMainFrame::OncomboRate()
 
 void CMainFrame::OnBottonBackwards()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
     
     if ( m_wndProperties.iComboBoxProperties == 0 )
@@ -791,6 +804,8 @@ void CMainFrame::OnBottonBackwards()
 
 void CMainFrame::OnButtonForwards()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
     
     if ( m_wndProperties.iComboBoxProperties == 0 )
@@ -811,6 +826,8 @@ void CMainFrame::OnButtonForwards()
 
 void CMainFrame::OnButtonNextFrame()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
     
     if ( m_wndProperties.iComboBoxProperties == 0 )
@@ -831,6 +848,8 @@ void CMainFrame::OnButtonNextFrame()
 
 void CMainFrame::OnButtonPreviousFrame()
 {
+	((CHEFD_MCSView*)GetActiveFrame()->GetActiveView())->EnableAllRadioButton();
+
     Sleep(0);
     
     if ( m_wndProperties.iComboBoxProperties == 0 )

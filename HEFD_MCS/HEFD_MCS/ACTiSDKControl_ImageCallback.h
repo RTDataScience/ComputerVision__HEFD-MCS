@@ -485,7 +485,7 @@ void CALLBACK ACTiSDKControl_ImageCallback ( DWORD UserParam, BYTE* buf, DWORD l
             font = CreateFontIndirectA(&lf);
             oldFont = (HFONT)SelectObject(RenderDC, font);
             CString strTmp;
-            strTmp.Format(_T("Processing Pre Frame Time (Second): %f"), dbTimeDiff);
+            strTmp.Format(_T("Processing Pre Frame Time (Second): %4.4f"), dbTimeDiff);
             SetTextColor(RenderDC, RGB(255, 0, 0));
             TextOut(RenderDC, 10, 0, strTmp, strTmp.GetLength());
             strTmp.Format(_T("Frame Count: %d"), pView->lFrameCount);
@@ -567,7 +567,7 @@ void CALLBACK ACTiSDKControl_ImageCallback ( DWORD UserParam, BYTE* buf, DWORD l
             font = CreateFontIndirectA(&lf);
             oldFont = (HFONT)SelectObject(RenderDC, font);
             CString strTmp;
-            strTmp.Format(_T("Processing Pre Frame Time (Second): %f"), dbTimeDiff);
+            strTmp.Format(_T("Processing Pre Frame Time (Second): %4.4f"), dbTimeDiff);
             SetTextColor(RenderDC, RGB(255, 0, 0));
             TextOut(RenderDC, 10, 0, strTmp, strTmp.GetLength());
             strTmp.Format(_T("Frame Count: %d"), pView->lFrameCount);

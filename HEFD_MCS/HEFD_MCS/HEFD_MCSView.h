@@ -128,7 +128,10 @@ public:
         int iInBMPWidth,
         int iInBMPHeight
         );
-    
+
+	void DisableAllRadioButton();
+	void EnableAllRadioButton();
+
     afx_msg void OnMouseMove(UINT nFlags, CPoint point);
     afx_msg void OnDestroy();
     afx_msg void OnLButtonDown(UINT nFlags, CPoint point);

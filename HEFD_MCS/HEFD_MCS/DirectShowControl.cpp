@@ -48,7 +48,7 @@ DWORD WINAPI VideoDisplayThreadProcess ( LPVOID lpParameter )
     if ( bDone == true )
     {
         pWnd->pMediaControl->Stop();
-        AfxMessageBox( _T("Vedio Complete.\n"), MB_OK );
+        AfxMessageBox( _T("Vedio Complete.\nPress Stop Button.\nEnable All Radio Button.\n"), MB_OK );
     }
     pWnd->m_hVideoDisplayThread = NULL;
     TerminateThread ( 

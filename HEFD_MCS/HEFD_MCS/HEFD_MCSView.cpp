@@ -411,3 +411,23 @@ void CHEFD_MCSView::OnBnClickedButtonCountZero()
 {
     m_lMSPCount = 0;
 }
+
+
+void CHEFD_MCSView::DisableAllRadioButton()
+{
+	GetDlgItem(IDC_radioCHEFD_MCS)->EnableWindow(FALSE);
+	GetDlgItem(IDC_radioOtherAlgorithm0001)->EnableWindow(FALSE);
+	GetDlgItem(IDC_radioOtherAlgorithm0002)->EnableWindow(FALSE);
+	GetDlgItem(IDC_radioOtherAlgorithm0003)->EnableWindow(FALSE);
+	GetDlgItem(IDC_radioCHEFD_MCS2)->EnableWindow(FALSE);
+}
+
+
+void CHEFD_MCSView::EnableAllRadioButton()
+{
+	GetDlgItem(IDC_radioCHEFD_MCS)->EnableWindow(TRUE);
+	GetDlgItem(IDC_radioOtherAlgorithm0001)->EnableWindow(TRUE);
+	GetDlgItem(IDC_radioOtherAlgorithm0002)->EnableWindow(TRUE);
+	GetDlgItem(IDC_radioOtherAlgorithm0003)->EnableWindow(TRUE);
+	GetDlgItem(IDC_radioCHEFD_MCS2)->EnableWindow(TRUE);
+}
